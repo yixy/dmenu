@@ -2,6 +2,10 @@ dmenu - dynamic menu
 ====================
 dmenu is an efficient dynamic menu for X.
 
+the intrduction in archlinux wiki:
+
+> dmenu is a dynamic menu for X, which reads a list of newline-separated items from stdin. When the user selects an item and presses Return, their choice is printed to stdout and dmenu terminates. Entering text will narrow the items to those matching the tokens in the input.
+> dmenu_run is a script used by dwm(1) which lists programs in the user's $PATH and runs the result in their $SHELL.
 
 Requirements
 ------------
